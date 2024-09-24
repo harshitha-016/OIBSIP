@@ -57,8 +57,8 @@ This repository contains the projects and tasks completed during the **Oasis Inf
 
 1. Clone this repository using:
    ```bash
-   git clone https://github.com/your-username/OIBSIP.git
+   git clone https://github.com/harshitha-016/OIBSIP.git
 ## Contact Information
 Name:Harshitha M
 Email:harshitham2k24@gmail.com
-GitHub: https://github.com/your-username
+GitHub: https://github.com/harshitha-016
