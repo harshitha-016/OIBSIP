@@ -28,7 +28,7 @@ This repository contains the projects and tasks completed during the **Oasis Inf
 
 ###  level 1 Task 3: TEMPERATURE CONVERTER WEBSITE
 - **Description**: This project is a simple temperature converter that allows users to input a temperature in either Celsius, Fahrenheit, or Kelvin and convert it to the other units. The UI includes an input field, a dropdown menu for selecting the input unit, a “Convert” button, and a display area for the converted temperature.
-- **Technologies Used**: Basic knowledge of HTML, CSS, and JavaScript.
+- **Technologies Used**: Basic knowledge of HTML, CSS.
 - **File Location**: `TEMPERATURE CONVERTER WEBSITE`
 
 ###  level 2 Task 1:CALCULATOR
@@ -38,7 +38,7 @@ This repository contains the projects and tasks completed during the **Oasis Inf
 
 ###  level 2 Task 2:TRIBUTE PAGE
 - **Description**: This project is a tribute page created using HTML and CSS. It features a structured layout with a title, an image, and a description to honor a notable individual.
-- **Technologies Used**: Basic knowledge of HTML, CSS, and JavaScript.
+- **Technologies Used**: Basic knowledge of HTML, CSS.
 - **File Location**: `TRIBUTE PAGE`
 
 ###  level 2 Task 3: A BASIC TO-DO WEBAPP
@@ -48,7 +48,7 @@ This repository contains the projects and tasks completed during the **Oasis Inf
 
 ###  level 2 Task 4:LOGIN AUTHENTICATION
 - **Description**:This project implements a basic login authentication system using HTML, CSS, and JavaScript. It includes a login form that validates user credentials and provides access control to secure areas of the application.
-- **Technologies Used**: Basic knowledge of HTML, CSS, and JavaScript.
+- **Technologies Used**: Basic knowledge of Python.
 - **File Location**: `LOGIN AUTHENTICATION`
 
 ---
